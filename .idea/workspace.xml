@@ -1,8 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="" />
+    <list default="true" id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/server/db.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/environments/environment.ts" />
+      <change beforePath="$PROJECT_DIR$/.idea/caloreCasa.iml" afterPath="$PROJECT_DIR$/.idea/caloreCasa.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/.editorconfig" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/.editorconfig" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/.gitignore" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/README.md" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/README.md" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/angular.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/angular.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/protractor.conf.js" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/protractor.conf.js" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/src/app.e2e-spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/src/app.e2e-spec.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/src/app.po.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/src/app.po.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/tsconfig.e2e.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/tsconfig.e2e.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/package-lock.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.css" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.spec.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.css" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/assets/.gitkeep" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/.gitkeep" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/browserslist" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/browserslist" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/environments/environment.prod.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/environments/environment.prod.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/environments/environment.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/favicon.ico" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/index.html" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/index.html" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/karma.conf.js" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/karma.conf.js" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/main.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/main.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/polyfills.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/polyfills.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/styles.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/styles.css" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/test.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/test.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tsconfig.app.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tsconfig.app.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tsconfig.spec.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tsconfig.spec.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tslint.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tslint.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/tsconfig.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/tsconfig.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/readXls/tslint.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/tslint.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +56,18 @@
     <pharConfigPath>$PROJECT_DIR$/data/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,41 +76,110 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/laravel/.env" />
+        <option value="$PROJECT_DIR$/frontend/readXls/server/db.json" />
+        <option value="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
+        <option value="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/readXls/README.md" />
+        <option value="$PROJECT_DIR$/frontend/readXls/package.json" />
+        <option value="$PROJECT_DIR$/frontend/readXls/package-lock.json" />
+        <option value="$PROJECT_DIR$/frontend/readXls/angular.json" />
+        <option value="$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/server/db.json" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/frontend/calore-casa-app/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="725" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
       <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="462c0819:PsiDirectoryNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="load-file" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,6 +192,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -82,122 +209,230 @@
       <workItem from="1541447281792" duration="270000" />
       <workItem from="1541447777282" duration="191000" />
       <workItem from="1541448004096" duration="404000" />
-      <workItem from="1545586032263" duration="552000" />
+      <workItem from="1545586032263" duration="153000" />
+      <workItem from="1545586461789" duration="492000" />
+      <workItem from="1545588234642" duration="6000" />
+      <workItem from="1546688415109" duration="8854000" />
+      <workItem from="1546890588346" duration="410000" />
+      <workItem from="1546891051371" duration="437000" />
+      <workItem from="1546891795224" duration="576000" />
+      <workItem from="1546893181686" duration="219000" />
     </task>
-    <task id="LOCAL-00001" summary="update idea settings">
-      <created>1545586341387</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1545586341388</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1417000" />
-  </component>
-  <component name="TodoView" selected-index="3">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="12012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2619974" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998326" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19349681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45143786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/laravel" />
     </ignored-roots>
-    <MESSAGE value="update idea settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="update idea settings" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Test2.php" />
     <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Test.php" />
     <entry file="file://$PROJECT_DIR$/laravel/vendor/composer/autoload_classmap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="1842" column="79" selection-start-line="1842" selection-start-column="79" selection-end-line="1842" selection-end-column="79" />
+          <caret line="1842" column="79" lean-forward="false" selection-start-line="1842" selection-start-column="79" selection-end-line="1842" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/server.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/laravel/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1440" />
+        <state relative-caret-position="-1440">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/config/queue.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/routes/channels.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/routes/console.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/vendor/fzaninotto/faker/src/Faker/UniqueGenerator.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/public/index.php">
+    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/e2e/src/app.e2e-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/README.md" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/server/db.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/package.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/angular.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/server/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.html" />
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
