@@ -1,49 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts" line="4" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/server/db.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/environments/environment.ts" />
-      <change beforePath="$PROJECT_DIR$/.idea/caloreCasa.iml" afterPath="$PROJECT_DIR$/.idea/caloreCasa.iml" />
+    <list id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="" />
+    <list default="true" id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="Creation of the interfaces" comment="Creation of the interfaces">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/.editorconfig" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/.gitignore" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/README.md" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/README.md" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/angular.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/angular.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/protractor.conf.js" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/protractor.conf.js" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/src/app.e2e-spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/src/app.e2e-spec.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/src/app.po.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/src/app.po.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/e2e/tsconfig.e2e.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/e2e/tsconfig.e2e.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/package-lock.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.css" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.spec.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.component.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.css" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/assets/.gitkeep" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/.gitkeep" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/browserslist" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/browserslist" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/environments/environment.prod.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/environments/environment.prod.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/environments/environment.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/favicon.ico" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/index.html" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/index.html" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/karma.conf.js" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/karma.conf.js" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/main.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/main.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/polyfills.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/polyfills.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/styles.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/styles.css" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/test.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/test.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tsconfig.app.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tsconfig.app.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tsconfig.spec.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tsconfig.spec.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/src/tslint.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/tslint.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/tsconfig.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/frontend/readXls/tslint.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/tslint.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,13 +40,55 @@
     <pharConfigPath>$PROJECT_DIR$/data/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="flat-interface.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            <state relative-caret-position="108">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heating-data-interface.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapper-default.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="company-interface.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="building-interface.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +113,42 @@
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/server/db.json" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/azienda-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/telephone-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/extra-info-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/person-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/email-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/phone-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/user-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/guest-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/role-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/company-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/building-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/radiator-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/water-meter-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-commondata-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts" />
       </list>
     </option>
   </component>
@@ -164,7 +224,62 @@
               <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="load-file" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="broadcast" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="entity" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="entity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="heating" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="import" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -178,8 +293,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\node_modules\tslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\broadcast" />
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\entity\hotwater" />
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\entity\heating" />
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\registry" />
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\login" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +329,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="" />
+      <changelist id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="creations of all the interfaces" comment="" />
       <created>1541447279977</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -216,35 +344,36 @@
       <workItem from="1546890588346" duration="410000" />
       <workItem from="1546891051371" duration="437000" />
       <workItem from="1546891795224" duration="576000" />
-      <workItem from="1546893181686" duration="219000" />
+      <workItem from="1546893181686" duration="276000" />
+      <workItem from="1547288357265" duration="20450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12012000" />
+    <option name="totallyTimeSpent" value="32519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19349681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45143786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45143786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27105543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -258,79 +387,16 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/laravel" />
     </ignored-roots>
+    <MESSAGE value="Creation of the interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of the interfaces" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
-    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Test2.php" />
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Test.php" />
-    <entry file="file://$PROJECT_DIR$/laravel/vendor/composer/autoload_classmap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="1842" column="79" lean-forward="false" selection-start-line="1842" selection-start-column="79" selection-end-line="1842" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1440">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -370,13 +436,7 @@
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.html" />
-    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/angular.json" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/server/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -384,28 +444,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-566">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/package.json" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.ts" />
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.html" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -430,9 +470,207 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
+        <state relative-caret-position="540">
           <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/azienda-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#60#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#60#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
