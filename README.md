@@ -1,2 +1,2 @@
 # caloreCasa
-Calore Casa la prima app user friendly per la gestione del calore e dell'acqua sanitaria condominiale
+Calore Casa is the first user-friendly app for heating and hot water management.

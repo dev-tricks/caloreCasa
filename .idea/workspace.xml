@@ -5,30 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="" />
-    <list default="true" id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="Creation of the interfaces" comment="Creation of the interfaces">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts" />
+    <list default="true" id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="heat Import method" comment="Creation of the interfaces">
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/individual-flat-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/parsed-value.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat-interface.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/mapper-flat.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.css" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.spec.ts" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" afterPath="" />
     </list>
+    <ignored path="frontend/calore-casa-app/src/assets/test.xlsx" />
+    <ignored path="frontend/calore-casa-app/src/assets/~$test.xlsx" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,60 +40,14 @@
     <pharConfigPath>$PROJECT_DIR$/data/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="flat-interface.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="heating-data-interface.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapper-default.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="company-interface.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="building-interface.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,21 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/laravel/.env" />
-        <option value="$PROJECT_DIR$/frontend/readXls/server/db.json" />
-        <option value="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
-        <option value="$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
-        <option value="$PROJECT_DIR$/frontend/readXls/README.md" />
-        <option value="$PROJECT_DIR$/frontend/readXls/package.json" />
-        <option value="$PROJECT_DIR$/frontend/readXls/package-lock.json" />
-        <option value="$PROJECT_DIR$/frontend/readXls/angular.json" />
-        <option value="$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/server/db.json" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/azienda-interface.ts" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/telephone-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/extra-info-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/person-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/email-interface.ts" />
@@ -132,9 +71,7 @@
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-commondata-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts" />
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts" />
@@ -149,6 +86,26 @@
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/model/mapper-model.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/parsed-value.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/mapper1.json" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/model/mapper-flat-model.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/helpers/heat-import-methods.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.html" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/mapper-flat.json" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/individual-flat-interface.ts" />
       </list>
     </option>
   </component>
@@ -202,91 +159,12 @@
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="broadcast" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="entity" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="entity" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="heating" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="caloreCasa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caloreCasa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="calore-casa-app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="interface" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="import" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,11 +179,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\features" />
       <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\broadcast" />
       <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\entity\hotwater" />
       <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\entity\heating" />
       <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\registry" />
-      <recent name="C:\Users\cappa\Documents\caloreCasa\frontend\calore-casa-app\src\app\shared\interface\login" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,24 +223,33 @@
       <workItem from="1546891051371" duration="437000" />
       <workItem from="1546891795224" duration="576000" />
       <workItem from="1546893181686" duration="276000" />
-      <workItem from="1547288357265" duration="20450000" />
+      <workItem from="1547288357265" duration="21694000" />
+      <workItem from="1547315199418" duration="167000" />
+      <workItem from="1547651418412" duration="18517000" />
     </task>
+    <task id="LOCAL-00001" summary="Creation of the interfaces">
+      <created>1547309297033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547309297033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32519000" />
+    <option name="totallyTimeSpent" value="52447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45143786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6190993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27105543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2771855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -370,6 +257,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -397,40 +285,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/caloreCasa.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/e2e/src/app.e2e-spec.ts" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/README.md" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/server/db.json" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.html" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.ts" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/package.json" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/tslint.json" />
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/angular.json" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/tslint.json" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.module.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
@@ -447,24 +301,10 @@
     <entry file="file://$PROJECT_DIR$/frontend/feCaloreCasa/package.json" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/sheetjs/sheetjs.component.html" />
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -472,39 +312,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/azienda-interface.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/azienda-interface.ts" />
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,15 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,7 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,15 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,9 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#60#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,9 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#60#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,6 +424,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface</OriginalElement>
+          <nodes>
+            <node x="97.0" y="669.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts#AccessPointInterface#0;</node>
+            <node x="616.0" y="793.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;</node>
+            <node x="573.0" y="357.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;</node>
+            <node x="1171.0" y="751.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#BuildingInterface#132;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#UserInterface#75;</node>
+            <node x="1527.0" y="601.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts#EmailInterface#0;</node>
+            <node x="1100.0" y="438.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#EmailInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#ExtraInfoInterface#105;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#PhoneInterface#61;</node>
+            <node x="772.0" y="1255.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;</node>
+            <node x="1254.0" y="1377.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#GuestInterface#65;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#PersonInterface#9;</node>
+            <node x="181.0" y="143.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts#HeatingCommonDataInterface#0;</node>
+            <node x="403.0" y="1574.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#HeatingDataInterface#59;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#RadiatorInterface#9;</node>
+            <node x="728.0" y="0.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts#HotwaterCommonDataInterface#0;</node>
+            <node x="714.5140700068632" y="1792.732326698696">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#HotWaterDataInterface#64;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#WaterMeterInterface#9;</node>
+            <node x="416.0" y="1118.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts#LogInterface#0;</node>
+            <node x="863.0" y="1024.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#LogInterface#70;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#PersonInterface#110;</node>
+            <node x="1372.0" y="158.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts#PhoneInterface#0;</node>
+            <node x="0.0" y="1609.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts#RadiatorInterface#0;</node>
+            <node x="1597.0" y="1153.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts#RoleInterface#0;</node>
+            <node x="1258.0" y="982.0">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;</node>
+            <node x="721.8531228551819" y="1991.4852436513384">$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts#WaterMeterInterface#0;</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-common-data-interface.ts#HotwaterCommonDataInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#EmailInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#ExtraInfoInterface#105;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#PhoneInterface#61;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts#EmailInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts#AccessPointInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#HotWaterDataInterface#64;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#WaterMeterInterface#9;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts#WaterMeterInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/role-interface.ts#RoleInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/email-interface.ts#EmailInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#BuildingInterface#132;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#UserInterface#75;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#HeatingDataInterface#59;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#RadiatorInterface#9;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/radiator-interface.ts#RadiatorInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#BuildingInterface#132;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#UserInterface#75;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-common-data-interface.ts#HeatingCommonDataInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts#LogInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#LogInterface#70;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#PersonInterface#110;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/log-interface.ts#LogInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#HeatingDataInterface#59;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts#RadiatorInterface#9;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#GuestInterface#65;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#PersonInterface#9;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#GuestInterface#65;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/guest-interface.ts#PersonInterface#9;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#LogInterface#70;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#PersonInterface#110;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#LogInterface#70;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#PersonInterface#110;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#EmailInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#ExtraInfoInterface#105;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#PhoneInterface#61;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#EmailInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#ExtraInfoInterface#105;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#PhoneInterface#61;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/phone-interface.ts#PhoneInterface#0;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#LogInterface#70;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/person-interface.ts#PersonInterface#110;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#EmailInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#ExtraInfoInterface#105;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/extra-info-interface.ts#PhoneInterface#61;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#HotWaterDataInterface#64;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/hotwater-data-interface.ts#WaterMeterInterface#9;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#AddressInterface#158;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#FlatInterface#275;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#GuestInterface#224;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HeatingDataInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/flat-interface.ts#HotWaterDataInterface#82;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AccessPointInterface#357;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#BuildingInterface#425;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#FlatInterface#250;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HeatingCommonDataInterface#75;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#HotwaterCommonDataInterface#161;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/building-interface.ts#UserInterface#300;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#AddressInterface#110;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#ExtraInfoInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/registry/address-interface.ts#LogInterface#70;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#AddressInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#BuildingInterface#132;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts#UserInterface#75;" target="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#EmailInterface#123;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#PersonInterface#9;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#RoleInterface#73;C:/Users/cappa/Documents/caloreCasa/frontend/calore-casa-app/src/app/shared/interface/login/user-interface.ts#UserInterface#177;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.807202216066482" x="1359.0" y="893.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/hotwater/water-meter-interface.ts#WaterMeterInterface#0;</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/heating/heating-data-interface.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -648,18 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/entity/company-interface.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -669,8 +586,167 @@
         <state relative-caret-position="324">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#65#0" expanded="true" />
+            <element signature="e#0#65#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/broadcast/access-point-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/parsed-value.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/model/mapper-flat-model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/helpers/heat-import-methods.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/assets/mapper-flat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/individual-flat-interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

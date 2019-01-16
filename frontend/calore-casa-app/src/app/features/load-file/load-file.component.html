@@ -1,0 +1,10 @@
+<div *ngIf="helper.data.length === 0">
+    <input type="file" (change)="onFileChange($event)"/>
+</div>
+<table *ngIf="helper.data.length > 0">
+    <tr *ngFor="let row of helper.data">
+        <td [ngStyle]="{'color':!row.error ? 'green' : 'red' }">
+            Valore: {{row.value}} - {{row.desc}}
+        </td>
+    </tr>
+</table>
