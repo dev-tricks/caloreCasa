@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list id="b13325cc-97ea-4958-b622-1c0f09d20631" name="Default Changelist" comment="" />
-    <list default="true" id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="heat Import method" comment="Creation of the interfaces">
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-helper.service.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.spec.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/core/services/import-settings.service.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/individual-flat-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/parsed-value.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat-interface.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/assets/mapper-flat.json" />
+    <list default="true" id="f62d9719-ed23-44dd-95f3-8306bd7c0898" name="heat Import method" comment="Creation of services and other interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/app.module.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.css" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.css" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.spec.ts" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/features/load-file/load-file.component.spec.ts" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/load-file/load-file.component.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-default.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/frontend/calore-casa-app/package.json" afterPath="$PROJECT_DIR$/frontend/calore-casa-app/package.json" />
     </list>
     <ignored path="frontend/calore-casa-app/src/assets/test.xlsx" />
     <ignored path="frontend/calore-casa-app/src/assets/~$test.xlsx" />
@@ -49,13 +32,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webpack-dev-server</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/extra-info-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/person-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/email-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/anagrafiche/phone-interface.ts" />
@@ -106,6 +93,7 @@
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/mapper-flat-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/shared-flat-interface.ts" />
         <option value="$PROJECT_DIR$/frontend/calore-casa-app/src/app/shared/interface/import/individual-flat-interface.ts" />
+        <option value="$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json" />
       </list>
     </option>
   </component>
@@ -225,7 +213,7 @@
       <workItem from="1546893181686" duration="276000" />
       <workItem from="1547288357265" duration="21694000" />
       <workItem from="1547315199418" duration="167000" />
-      <workItem from="1547651418412" duration="18517000" />
+      <workItem from="1547651418412" duration="18944000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the interfaces">
       <created>1547309297033</created>
@@ -234,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547309297033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creation of services and other interfaces">
+      <created>1547672939403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547672939403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52447000" />
+    <option name="totallyTimeSpent" value="52874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
@@ -276,7 +271,8 @@
       <path value="$PROJECT_DIR$/laravel" />
     </ignored-roots>
     <MESSAGE value="Creation of the interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation of the interfaces" />
+    <MESSAGE value="Creation of services and other interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of services and other interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -285,7 +281,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/readXls/src/tslint.json" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.module.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/app.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/readXls/src/app/sheetjs/sheetjs.component.spec.ts" />
@@ -305,13 +300,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -683,7 +671,7 @@
         <state relative-caret-position="324">
           <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -701,7 +689,7 @@
         <state relative-caret-position="972">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -719,7 +707,7 @@
         <state relative-caret-position="540">
           <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -729,7 +717,7 @@
         <state relative-caret-position="432">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
+            <element signature="e#0#62#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -746,6 +734,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1483">
+          <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+          <folding>
+            <marker date="1547673250182" expanded="true" signature="417444:417454" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/calore-casa-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
           <folding />
         </state>
       </provider>
