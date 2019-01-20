@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { ParsedValue } from "../../shared/interface/import/parsed-value";
 import * as XLSX from "xlsx";
-import { MapperFlatInterface } from "../../shared/interface/import/mapper-flat-interface";
+import { HeatingMapperInterface } from "../../shared/interface/import/heating-mapper-interface";
 
 @Injectable({
     providedIn: 'root'
@@ -13,7 +13,7 @@ export class ImportHelperService {
     constructor() {
     }
 
-    heatImport(e, mapper: MapperFlatInterface): void {
+    heatImport(e, mapper: HeatingMapperInterface): void {
         const bstr: string = e.target.result;
         const wb: XLSX.WorkBook = XLSX.read(bstr, {type: 'binary'});
         const sheetNameHeat = wb.SheetNames.indexOf(mapper.sheetName);

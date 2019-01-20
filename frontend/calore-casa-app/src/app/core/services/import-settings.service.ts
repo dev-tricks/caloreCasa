@@ -1,13 +1,13 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { MapperFlatInterface } from "../../shared/interface/import/mapper-flat-interface";
+import { HeatingMapperInterface } from "../../shared/interface/import/heating-mapper-interface";
 
 @Injectable({
   providedIn: 'root'
 })
 export class ImportSettingsService {
 
-    mapper: MapperFlatInterface;
+    mapper: HeatingMapperInterface;
 
     constructor(private http: HttpClient) {
         this.getSettings();
@@ -15,7 +15,7 @@ export class ImportSettingsService {
 
     getSettings() {
         this.http.get('./assets/mapper-flat.json')
-            .subscribe((result: MapperFlatInterface) => {
+            .subscribe((result: HeatingMapperInterface) => {
                 this.mapper = result;
             });
     }

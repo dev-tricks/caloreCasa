@@ -1,12 +1,34 @@
+/**
+ * user interface
+ * # interfaccia dell'utente
+ */
 import { PersonInterface } from "../registry/person-interface";
 import { RoleInterface } from "./role-interface";
-import { EmailInterface } from "../registry/email-interface";
 
-export interface UserInterface extends PersonInterface{
+export interface UserInterface extends PersonInterface {
+    /**
+     * id
+     * # id
+     */
+    id: number;
+    /**
+     * username
+     * # username
+     */
     username: string;
+    /**
+     * password
+     * # password
+     */
     password: string;
-    email: EmailInterface;
+    /**
+     * email
+     * # email
+     */
+    email: string;
+    /**
+     * role
+     * # ruolo
+     */
     role: RoleInterface;
-    creationDate: Date;
-    lastOfSeen: Date;
 }
